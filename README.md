@@ -16,7 +16,7 @@ To get started with Chatbot, follow these steps:
 
 
 2. Set the Bot:
-Open .env.local and customize the bot
+***Open .env.local and customize the bot***
 ```bash
 NEXT_PUBLIC_DEVELOPER=Ronen //Replace Ronen with your name
 NEXT_PUBLIC_BOT_NAME=Chatbot //Replace Chatbot with your bot character name
