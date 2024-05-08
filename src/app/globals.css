@@ -1,0 +1,10 @@
+:root {
+  --col1: rgb(13, 13, 13);
+  --col2: #181414;
+  --textcol: rgb(255, 255, 255);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
