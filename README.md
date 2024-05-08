@@ -12,13 +12,15 @@ To get started with Chatbot, follow these steps:
 
 1. Fork this repository:
 
-[![Fork this repo](https://img.shields.io/badge/Fork-This%20Repo-blue?logo=github)](https://github.com/Ronen6999/Chatbot/fork)
+[![Fork this repo](https://img.shields.io/badge/Fork-This%20Repo-blue?logo=github)](https://github.com/Ronen6999/custom-chatbot/fork)
 
 
 2. Set the Bot:
+Open .env.local and customize the bot
 ```bash
-cd awesome-chatbot
-npm install
+NEXT_PUBLIC_DEVELOPER=Ronen //Replace Ronen with your name
+NEXT_PUBLIC_BOT_NAME=Chatbot //Replace Chatbot with your bot character name
+NEXT_PUBLIC_GEMINI_API= //Enter your Gemini API here
 ```
 
 3. Deploy on Vercel:
