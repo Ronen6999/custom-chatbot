@@ -3,7 +3,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
-const BOT_NAME = process.env.NEXT_PUBLIC_BOT_NAME || 'zerotwo';
+const BOT_NAME = process.env.NEXT_PUBLIC_BOT_NAME || 'Chatbot';
 export const metadata: Metadata = {
   title: `${BOT_NAME} Bot`,
   description: `I am ${BOT_NAME} your personal chatbot.`,
