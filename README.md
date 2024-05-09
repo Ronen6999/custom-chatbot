@@ -14,8 +14,10 @@ To get started with Chatbot, follow these steps:
 
 [![Fork this repo](https://img.shields.io/badge/Fork-This%20Repo-blue?logo=github)](https://github.com/Ronen6999/custom-chatbot/fork)
 
+2. Get your Gemini API
+[Gemini API](https://ai.google.dev)
 
-2. Set the Bot:
+3. Set the Bot:
    
 ***Open .env.local and customize the bot***
 ```bash
@@ -24,7 +26,7 @@ NEXT_PUBLIC_BOT_NAME=Chatbot //Replace Chatbot with your bot character name
 NEXT_PUBLIC_GEMINI_API= //Enter your Gemini API here
 ```
 
-3. Deploy on Vercel:
+4. Deploy on Vercel:
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme)
 
