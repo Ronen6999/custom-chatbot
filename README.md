@@ -14,10 +14,11 @@ To get started with Chatbot, follow these steps:
 
 [![Fork this repo](https://img.shields.io/badge/Fork-This%20Repo-blue?logo=github)](https://github.com/Ronen6999/custom-chatbot/fork)
 
-2. Get your Gemini API
+2. Get your Gemini API:
+
 [Gemini API](https://ai.google.dev)
 
-3. Set the Bot:
+4. Set the Bot:
    
 ***Open .env.local and customize the bot***
 ```bash
