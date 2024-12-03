@@ -18,7 +18,7 @@ To get started with Chatbot, follow these steps:
 
 [Gemini API](https://ai.google.dev)
 
-4. Set the Bot:
+3. Set the Bot:
    
 ***Open .env.local and customize the bot***
 ```bash
